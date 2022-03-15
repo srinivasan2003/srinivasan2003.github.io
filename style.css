@@ -1,0 +1,69 @@
+body {
+background: url(bg2.jpg) no-repeat center center fixed;
+background-size: cover ;
+}
+h1 {
+    color: aliceblue;
+    font-weight: 500;
+    font-family:fantasy;
+    text-align: center;
+    border: 5px groove green;
+    align-items: center;
+    cursor: pointer;
+}
+.con {
+    text-align: center;
+    color:azure;
+}
+.btn1 {
+    padding: 10px;
+    text-align: center;
+}
+
+.btn1 {
+    border-radius: 300px;
+    font-weight: 800;
+    text-transform: capitalize;
+    text-align: center;
+}
+.btn1-primary {
+    background-color: rgb(29, 29, 177);
+    border-color:rgb(29, 29, 177); 
+}
+.btn1-primary:hover {
+    background-color: rgb(53, 139, 111);
+    border-color: rgb(53, 139, 111);
+}
+.btn2 {
+    padding: 10px;
+    text-align: center;
+}
+.btn2 {
+    border-radius: 300px;
+    font-weight: 800;
+    text-transform: capitalize;
+    text-align: center;
+}
+.btn2-primary {
+    background-color: rgb(29, 29, 177);
+    border-color:rgb(29, 29, 177); 
+}
+.btn2-primary:hover {
+    background-color: rgb(53, 139, 111);
+    border-color: rgb(53, 139, 111);
+}
+.butt {
+    text-align: center;
+}
+
+.buffer{
+    height:150px;
+}
+.down {
+    color: antiquewhite;
+}
+a {
+    text-decoration: none;
+    color: blue;
+    font-size: larger;
+}

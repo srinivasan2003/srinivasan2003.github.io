@@ -1,0 +1,11 @@
+h1 {
+
+}
+.flexbox img{
+	width: 450px;
+	height: 300px;
+	display: flex;
+}
+.flexbox {
+	display: flex;
+}

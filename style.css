@@ -1,6 +1,6 @@
 body {
     /*font-family: 'Shizuru', cursive;*/
-	background-image: url(bg2.jpg);
+	background: url(bg2.jpg) no-repeat center center fixed;
 	color: white;
 	background-size: cover;
 }

@@ -7,7 +7,7 @@ h1 {
     font-weight: 500;
     font-family:fantasy;
     text-align: center;
-    border: 5px groove green;
+/*     border: 5px groove green; */
     align-items: center;
     cursor: pointer;
 }

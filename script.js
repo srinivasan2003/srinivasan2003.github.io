@@ -89,7 +89,7 @@ contactForm.addEventListener("submit", (e) => {
     from_email: email,
     subject: subject,
     message: message,
-    to_name: "Ramesh Srinivasan",
+    to_name: "R.Srinivasan",
     reply_to: email,
   }
 

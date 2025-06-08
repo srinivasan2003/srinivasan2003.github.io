@@ -44,7 +44,7 @@ cvBtn.addEventListener("click", () => {
   //alert("This is my CV take a Look.");
 
   // For a real implementation, use:
-  window.open('Ramesh-Srinivasan-Resume.pdf', 'Resume');
+  window.open('R.Srinivasan-Resume.pdf', 'Resume');
 })
 
 // Add EmailJS initialization - make sure this runs after the EmailJS script is loaded
